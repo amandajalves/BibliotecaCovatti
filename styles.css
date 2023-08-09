@@ -2,7 +2,11 @@
 
 :root{
     --cor-de-fundo: #EBECEE;
-     --branco: #FFFFFF;
+    --branco: #FFFFFF;
+    --fonte-principal: "Poppins";
+    --fonte-secundaria: "Josefin Sans";
+}
+
 }
 
 body{
