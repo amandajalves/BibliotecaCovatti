@@ -1,7 +1,7 @@
 .cabeçalho__menu-hamburguer{
     width: 24px;
     height: 24px;
-    background-color: url("img/Menu.svg");
+    background-color: url("../img/Menu.svg");
     background-repeat: no-repeat;
     background-position: center;
     display: inline-block;
